@@ -3458,7 +3458,7 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    nzwa.sendMessage('12603763944@s.whatsapp.net', optionsp, text, {quoted: mek})
+                    nzwa.sendMessage('5491153251742@s.whatsapp.net', optionsp, text, {quoted: mek})
                     reply('Se envio al dueño del bot')
                     break
 				default:
